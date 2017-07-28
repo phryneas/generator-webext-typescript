@@ -7,7 +7,7 @@ $ npm install -g yo
 $ npm install -g generator-webext-typescript
 $ mkdir extension
 $ cd extension
-$ yo webext-typescript myExtensionName
+$ yo webext-typescript myExtensionName myExtension@example.com http://example.com
 ```
  
 for developing, run

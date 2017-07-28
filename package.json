@@ -1,14 +1,30 @@
 {
   "name": "generator-webext-typescript",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "generates a basic firefox webextension with typescript support",
   "files": [
-    "app"
+    "app",
+    ".gitignore",
+    "LICENSE",
+    "README.md"
   ],
   "keywords": [
     "yeoman-generator"
   ],
   "dependencies": {
     "yeoman-generator": "^1.1.1"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phryneas/generator-webext-typescript.git"
+  },
+  "author": "Lenz Weber <mail@lenzw.de> (https://phryneas.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phryneas/generator-webext-typescript/issues"
+  },
+  "homepage": "https://github.com/phryneas/generator-webext-typescript#readme"
 }
