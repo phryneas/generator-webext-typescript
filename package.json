@@ -1,0 +1,14 @@
+{
+  "name": "generator-webext-typescript",
+  "version": "0.1.0",
+  "description": "generates a basic firefox webextension with typescript support",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
